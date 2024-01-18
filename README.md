@@ -1,6 +1,6 @@
 # Lightning Web Components Recipes
 
-[![CI Workflow](https://github.com/trailheadapps/lwc-recipes/workflows/CI/badge.svg)](https://github.com/trailheadapps/lwc-recipes/actions?query=workflow%3ACI) [![Packaging Workflow](https://github.com/trailheadapps/lwc-recipes/workflows/Packaging/badge.svg)](https://github.com/trailheadapps/lwc-recipes/actions?query=workflow%3A%22Packaging%22) [![codecov](https://codecov.io/gh/trailheadapps/lwc-recipes/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/lwc-recipes)
+[![CI](https://github.com/trailheadapps/lwc-recipes/actions/workflows/ci.yml/badge.svg)](https://github.com/trailheadapps/lwc-recipes/actions/workflows/ci.yml) [![Packaging](https://github.com/trailheadapps/lwc-recipes/actions/workflows/packaging.yml/badge.svg)](https://github.com/trailheadapps/lwc-recipes/actions/workflows/packaging.yml) [![codecov](https://codecov.io/gh/trailheadapps/lwc-recipes/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/lwc-recipes)
 
 ![recipes-logo](recipes-logo.png)
 
@@ -92,7 +92,7 @@ Make sure to start from a brand-new environment to avoid conflicts with any prev
 
 1. Log in to your org
 
-1. Click [this link](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3t000002YSBPAA4) to install the Recipes unlocked package in your org.
+1. Click [this link](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3t000002YSBZAA4) to install the Recipes unlocked package in your org.
 
 1. Select **Install for All Users**
 
